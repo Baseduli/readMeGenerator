@@ -1,7 +1,7 @@
-# ReadMeGenerator
+# Read Me Generator 
 
   ## Description
-  This project creates a readme MD file for any project you may need
+  This project creates the readme.md for you based on your responses
 
   ##Table of Contents
   -[Installation](#installation)
@@ -11,17 +11,17 @@
   -[Tests](#tests)
 
   ## Installation
-  You must have inquirer installed 
+  This project is installed using node and inquirer
 
   ## Usage
-  You answer the prompts that are provided when you run this code on node.js and a file will be generated for you
+  you use this project by running "node generateMarkdown.js" in the bash prompt once you've done npm install
 
   ## Contributing
-  Created this with help of OpenAI, Inquirer documentation, and class lessons from bootcamp
+  undefined
   
   ## Tests
-  Ran the test here on my own laptop
+  Tested it myself on my laptop
 
   ## License
-  MIT
+  APACHE 2.0
 
