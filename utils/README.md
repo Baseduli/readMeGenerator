@@ -1,27 +1,28 @@
-# Read Me Generator 
+# Testing ReadMe
 
-  ## Description
-  This project creates the readme.md for you based on your responses
+## Description
+It creates readme
 
-  ##Table of Contents
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[Contributing](#contribution)
-  -[License](#license)
-  -[Tests](#tests)
+##Table of Contents
+-[Installation](#installation)
+-[Usage](#usage)
+-[Contributing](#contribution)
+-[License](#license)
+-[Tests](#tests)
 
-  ## Installation
-  This project is installed using node and inquirer
+## Installation
+Need inquirer and node
 
-  ## Usage
-  you use this project by running "node generateMarkdown.js" in the bash prompt once you've done npm install
+## Usage
+use inquirer to run generateMarkdown.js on Node
 
-  ## Contributing
-  undefined
-  
-  ## Tests
-  Tested it myself on my laptop
+## Contributing
+undefined
 
-  ## License
-  APACHE 2.0
+## Tests
+Testing right now
+
+## License
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+License: [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0)
 
