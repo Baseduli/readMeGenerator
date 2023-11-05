@@ -1,7 +1,7 @@
-# Testing ReadMe
+# ReadMeGenerator
 
 ## Description
-It creates readme
+This project generates readme.md file using inquirer to prompt questions
 
 ##Table of Contents
 -[Installation](#installation)
@@ -11,18 +11,18 @@ It creates readme
 -[Tests](#tests)
 
 ## Installation
-Need inquirer and node
+Install node and use inquirer through npm install
 
 ## Usage
-use inquirer to run generateMarkdown.js on Node
+Run "node generateMarkdown.js" once you have the node and inquirer installed
 
 ## Contributing
 undefined
 
 ## Tests
-Testing right now
+Tested out on my laptop
 
 ## License
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
-License: [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0)
+(![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg))
+License: [APACHE 2.0](https://opensource.org/licenses/Apache-2.0)
 
